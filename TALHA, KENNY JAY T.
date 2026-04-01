@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Company Profile</title>
+
+  <style>
+    article {
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+    }
+  </style>
+
+</head>
+<body>
+
+  <header>
+    <h1>My Company</h1>
+    <p>Tagline here</p>
+  </header>
+
+  <main>
+    <article>
+      <h2>About Us</h2>
+      <p>This is our company.</p>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2026</p>
+    <button style="background-color: orange; color: white;">
+      Contact Us
+    </button>
+  </footer>
+
+</body>
+</html>
